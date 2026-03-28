@@ -1,0 +1,27 @@
+[package]
+name = "brickbreaker-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jordi"]
+description = "A Brickbreaker game built with Rust showcasing SOLID, DDD, and TDD principles"
+license = "MIT"
+repository = "https://github.com/jordienric/brickbreaker-rs"
+keywords = ["game", "breakout", "arkanoid", "rust", "ddd"]
+categories = ["games"]
+readme = "README.md"
+
+[[bin]]
+name = "brickbreaker-rs"
+path = "src/main.rs"
+
+[dependencies]
+macroquad = "0.4"
+
+[dev-dependencies]
+# No external test dependencies needed — domain is pure Rust
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true
