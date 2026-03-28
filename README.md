@@ -1,7 +1,7 @@
 # Brickbreaker RS
 
 [![Rust](https://img.shields.io/badge/language-Rust-orange)](https://www.rust-lang.org/)
-[![CI](https://github.com/YOUR_GITHUB_USER/brickbreaker-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USER/brickbreaker-rs/actions/workflows/ci.yml)
+[![CI](https://github.com/jordimorillo/brickbreaker-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/jordimorillo/brickbreaker-rs/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Clippy: clean](https://img.shields.io/badge/clippy-clean-green)](https://github.com/rust-lang/rust-clippy)
 
