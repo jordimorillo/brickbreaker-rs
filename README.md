@@ -181,3 +181,9 @@ src/
 ## 📜 License
 
 [MIT](LICENSE) © Jordi
+
+---
+
+## 👤 Autor
+
+**Jordi Morillo Sells** — [LinkedIn](https://www.linkedin.com/in/jordi-morillo-sells/)
